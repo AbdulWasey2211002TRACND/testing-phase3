@@ -1,0 +1,7 @@
+Sure! Here's a simple Python code that prints "Hello, World!" to the console:
+
+```python
+print("Hello, World!")
+```
+
+This is a basic example of a Python program that uses the `print()` function to display the text "Hello, World!" on the screen.
